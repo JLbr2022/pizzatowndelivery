@@ -9289,7 +9289,7 @@ function Vf() {
           x.jsx("input", {
             type: "search",
             id: "default-search",
-            placeholder: "pizza, bebida, ingrediente, precio...",
+            placeholder: "pizza, bebida, ingrediente, preço...",
             required: !0,
             className: "inputSearch",
             value: e,
